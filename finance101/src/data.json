@@ -1,0 +1,13 @@
+[
+    {
+        "month": "Jan",
+        "income": {
+            "work": "100"
+        },
+        "expenses": {
+            "food": "20",
+            "cable": "30",
+            "gas": "50"
+        }
+    }
+]
